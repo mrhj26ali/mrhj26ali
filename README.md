@@ -96,6 +96,6 @@ Supported PhD-level research alongside master's candidates on predictive modelin
 - Looking for Master's program opportunities in these areas
 - Open to collaboration, research, and remote engineering roles
 
----
+
 
 
