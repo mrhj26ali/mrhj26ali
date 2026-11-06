@@ -37,9 +37,11 @@ An enterprise platform I architected end to end as three independent codebases w
 **Engineering decision worth sharing:** pure vector search failed on multi-hop questions such as "which delayed tasks have open safety incidents?". Adding graph traversal and Reciprocal Rank Fusion to the retrieval pipeline resolved it.
 
 ### Mizan: an Arabic-native language for industrial control
+
 A compiled, statically typed domain-specific language for industrial process monitoring. The full pipeline runs from an ANTLR4 grammar through the AST, semantic analysis (physical-unit type checking, finite-state-machine enforcement) and LLVM IR to native code, linked against libmodbus and libmosquitto. It includes a GUI Modbus TCP plant simulator for hardware-free testing.
 
 ### Other projects
+
 - **LMS Backend:** ASP.NET Core Web API using Clean Architecture, CQRS (MediatR), JWT with role-based access control, dual SQL Server databases, and English/Arabic localization.
 - **Student Information System:** .NET 10 and Entity Framework Core with a layered Clean Architecture design.
 
@@ -83,7 +85,7 @@ Supported PhD-level research alongside master's candidates on predictive modelin
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=flat-square&logo=llvm&logoColor=white)
 
 **Practices:** Clean and hexagonal architecture · CQRS · RAG and hybrid retrieval · agentic systems with human-in-the-loop safety · offline-first design · JWT and RBAC
@@ -96,6 +98,6 @@ Supported PhD-level research alongside master's candidates on predictive modelin
 - Looking for Master's program opportunities in these areas
 - Open to collaboration, research, and remote engineering roles
 
+---
 
-
-
+<p align="center"><i>Thanks for visiting.</i></p>
