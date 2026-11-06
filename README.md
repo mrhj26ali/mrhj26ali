@@ -98,7 +98,4 @@ Supported PhD-level research alongside master's candidates on predictive modelin
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrhj26ali&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhj26ali&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="150"/>
-</p>
+
