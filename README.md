@@ -1,4 +1,4 @@
-<h1 align="center">Ali Merhej 👋</h1>
+<h1 align="center">Ali Merhej </h1>
 <h3 align="center">Backend & AI Systems Engineer — FastAPI · .NET · Production AI Infrastructure</h3>
 
 <p align="center">
